@@ -1,6 +1,4 @@
 ola = 3
-olo = 3
-namecode= giulio
 name_code = pilou
 lala = lololow
 col = coolww
