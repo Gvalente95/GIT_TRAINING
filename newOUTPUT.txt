@@ -4,4 +4,4 @@ lala = lololow
 col = coolww
 super = 1
 pas super = ola
-NO THIS IS MY VERSION! GIULIO
+NO THIS IS MY VERSION!
