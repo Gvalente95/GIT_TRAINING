@@ -1,1 +1,8 @@
-INPUT CHANGED
+ola = 3
+olo = 5
+my_name = pilou
+name_of = giulio
+lala = lololo
+cool = pas cool
+super = 3
+pas super = 4
