@@ -1,8 +1,8 @@
 ola = 3
-olo = 5
-my_name = pilou
-name_of = giulio
+olo = 3
+name_code= pilou
+name_cocdecode = giulio
 lala = lololo
-cool = pas cool
+col = pas cool
 super = 3
-pas super = 4
+pas super = 1
