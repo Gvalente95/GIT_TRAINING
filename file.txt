@@ -1,2 +1,2 @@
-This is a test to see if you received the same input
+This is a test to see if the same input
 hey man 
